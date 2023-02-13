@@ -5,9 +5,20 @@ Salisu Isah Porfolio
 
  This Porfolio was design using bootstrap and csss.
 
- ## Installation
 
- N/A
+ ## Images
+
+![image of the main](images/bootstrapImage1.png)
+
+![about](images/bootstrapImage2.png)
+
+![Project.](images/bootstrapImage4.png)
+
+![contacts](images/bootstrapImage5.png)
+
+
+
+
 
  ## Usage
 
